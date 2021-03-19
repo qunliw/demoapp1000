@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is Qunli's azure github test page
+            Hahaha, I did it from github from Azure
         </div>
     </form>
 </body>
