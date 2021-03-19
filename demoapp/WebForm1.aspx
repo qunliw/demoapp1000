@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hahaha, I did it from github from Azure
+            Hahaha, I did it from VS to github to Azure
         </div>
     </form>
 </body>
